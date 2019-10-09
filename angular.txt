@@ -17,11 +17,12 @@ functions:can be called were ever needed.
 to access external js file:<script src="myScript.js"></script>(save with .js extension)
 Alt+B;
 
+8/10/2019
 clone:git clone https://github.com/prajaktay23/angular-new.git
 add:git add .
 commit:git commit -m "for  daily purpose"
 pull:git pull
 push:git push origin master
-
-
-
+refer markdown cheat sheet
+task:about visual studio:
+visual studio code is 
