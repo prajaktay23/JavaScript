@@ -1,15 +1,24 @@
 #Heading 1
+
 ##Heading 2
+
 _italics_
+
 **strong/bold**
+
 ~~1000~~ : to scratch the no.
+
 links: [visit website](https://learncode.in "LOC")
+
 images:![LCO mascot](https://learncode.in/mascot.png"LOC")
+
 use `for` loop: for making it dark
+
 ```javascript
 var name="praj";
 console.log(name)
 ```
+
 Tables
 |tables |goes |here |
 |--- |--- |--- |
