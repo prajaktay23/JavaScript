@@ -1,5 +1,6 @@
 ##ANGULAR:
  Angular, React and Vue.js
+
 **3/09/2019:**
 download:
 vs code
@@ -19,11 +20,17 @@ to access external js file:<script src="myScript.js"></script>(save with .js ext
 Alt+B;
 
 **8/10/2019**
-clone:--git clone https://github.com/prajaktay23/angular-new.git--
-add:--git add .--
-commit:--git commit -m "for  daily purpose"--
-pull:--git pull--
-push:--git push origin master--
+
+clone:_git clone https://github.com/prajaktay23/angular-new.git_
+
+add:_git add ._
+
+commit:_git commit -m "for  daily purpose"_
+
+pull:_git pull_
+
+push:_git push origin master_
+
 refer markdown cheat sheet
 task:about visual studio:
 visual studio code is 
