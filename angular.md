@@ -27,3 +27,8 @@ push: _git push origin master_<br/>
 refer markdown cheat sheet<br/>
 task:about visual studio:
 visual studio code is 
+
+**11/10/2019**<br/>
+js files doesnt contains scoping 
+var is a keyword.
+in js values declared are 
