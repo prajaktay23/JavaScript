@@ -9,6 +9,9 @@ let obj = {
     
     objIn : {
         ram : '8GB'
+    },
+    kk: {
+
     }
 }
 console.log(obj.age)
