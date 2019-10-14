@@ -29,5 +29,22 @@ function testStrict(val){
 console.log(testStrict("3"));//notequals
 console.log(testStrict(3));//equals
 
+//same for not equal to !=, !==
+//<= >= > < 
+// || && !   
+
+//4 
+function testElseIf(val){
+    if(val > 9){
+        return "greater than 9";
+    }
+    else if(val<5){
+        return "smaller than 5";
+    }
+    return "between 5 and 9";
+}
+console.log(testElseIf(7));//between 5 and 9
+
+//switch statement
 
 
