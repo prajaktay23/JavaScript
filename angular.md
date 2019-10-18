@@ -32,3 +32,7 @@ visual studio code is
 js files doesnt contains scoping 
 var is a keyword.
 in js values declared are 
+
+**17/10/2019**
+npm http server installation(npm node package installation)
+=> npm
